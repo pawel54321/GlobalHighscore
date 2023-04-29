@@ -1,0 +1,1974 @@
+{
+  "UWojHis": {
+    "version": 1,
+    "rank": [
+      {
+        "player": "Bulbet",
+        "campaign-name": "1",
+        "days": 293,
+        "points": 2120,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.8",
+        "campaign-version": "PL"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      }
+    ]
+  },
+
+  "UPodHis": {
+    "version": 1,
+    "rank": [
+      {
+        "player": "Bulbet",
+        "campaign-name": "1",
+        "days": 420,
+        "points": 1980,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.8",
+        "campaign-version": "PL"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      }
+    ]
+  },
+
+  "UWlaHis": {
+    "version": 1,
+    "rank": [
+      {
+        "player": "Bulbet",
+        "campaign-name": "1",
+        "days": 317,
+        "points": 2105,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.8",
+        "campaign-version": "PL"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      }
+    ]
+  },
+
+  "USzaHis": {
+    "version": 1,
+    "rank": [
+      {
+        "player": "Bulbet",
+        "campaign-name": "1",
+        "days": 383,
+        "points": 2060,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.8",
+        "campaign-version": "PL"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      }
+    ]
+  },
+
+  "UDrzHis": {
+    "version": 1,
+    "rank": [
+      {
+        "player": "Bulbet",
+        "campaign-name": "1",
+        "days": 168,
+        "points": 2210,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.8",
+        "campaign-version": "PL"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      }
+    ]
+  },
+
+  "UOgnHis": {
+    "version": 1,
+    "rank": [
+      {
+        "player": "Bulbet",
+        "campaign-name": "1",
+        "days": 229,
+        "points": 1550,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.8",
+        "campaign-version": "PL"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      }
+    ]
+  },
+
+  "UBunHis": {
+    "version": 1,
+    "rank": [
+      {
+        "player": "Bulbet",
+        "campaign-name": "1",
+        "days": 340,
+        "points": 2135,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.8",
+        "campaign-version": "PL"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      }
+    ]
+  },
+
+  "UMieHis": {
+    "version": 1,
+    "rank": [
+      {
+        "player": "Bulbet",
+        "campaign-name": "1",
+        "days": 264,
+        "points": 2090,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.8",
+        "campaign-version": "PL"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      }
+    ]
+  },
+
+  "SWojHis": {
+    "version": 1,
+    "rank": [
+      {
+        "player": "Stygian One",
+        "campaign-name": "1",
+        "days": 221,
+        "points": 2125,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.8",
+        "campaign-version": "ENG"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      }
+    ]
+  },
+
+  "SPodHis": {
+    "version": 1,
+    "rank": [
+      {
+        "player": "Stygian One",
+        "campaign-name": "1",
+        "days": 272,
+        "points": 1990,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.8",
+        "campaign-version": "ENG"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      }
+    ]
+  },
+
+  "SWlaHis": {
+    "version": 1,
+    "rank": [
+      {
+        "player": "Stygian One",
+        "campaign-name": "1",
+        "days": 162,
+        "points": 2125,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.8",
+        "campaign-version": "ENG"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      }
+    ]
+  },
+
+  "SSzaHis": {
+    "version": 1,
+    "rank": [
+      {
+        "player": "Stygian One",
+        "campaign-name": "1",
+        "days": 268,
+        "points": 2080,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "https://www.youtube.com/watch?v=X97R3l5AQqE",
+        "project-version": "2.5.8",
+        "campaign-version": "ENG"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      }
+    ]
+  },
+
+  "SDrzHis": {
+    "version": 1,
+    "rank": [
+      {
+        "player": "Stygian One",
+        "campaign-name": "1",
+        "days": 151,
+        "points": 2210,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.8",
+        "campaign-version": "ENG"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      }
+    ]
+  },
+
+  "SOgnHis": {
+    "version": 1,
+    "rank": [
+      {
+        "player": "Stygian One",
+        "campaign-name": "1",
+        "days": 202,
+        "points": 1950,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.8",
+        "campaign-version": "ENG"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      }
+    ]
+  },
+
+  "SBunHis": {
+    "version": 1,
+    "rank": [
+      {
+        "player": "Stygian One",
+        "campaign-name": "1",
+        "days": 163,
+        "points": 2220,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.8",
+        "campaign-version": "ENG"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      }
+    ]
+  },
+
+  "SMieHis": {
+    "version": 1,
+    "rank": [
+      {
+        "player": "Stygian One",
+        "campaign-name": "1",
+        "days": 225,
+        "points": 2060,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "https://www.youtube.com/watch?v=SX7cxrLmxhs",
+        "project-version": "2.5.8",
+        "campaign-version": "ENG"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      }
+    ]
+  },
+
+  "SGoWHis": {
+    "version": 1,
+    "rank": [
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      },
+      {
+        "player": "0",
+        "campaign-name": "0",
+        "days": 2000,
+        "points": 1,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "0",
+        "project-version": "2.5.9",
+        "campaign-version": "0"
+      }
+    ]
+  }
+
+}
