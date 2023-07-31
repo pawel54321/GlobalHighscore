@@ -1,6 +1,6 @@
 {
   "UWojHis": {
-    "version": 1,
+    "version": 2,
     "rank": [
       {
         "player": "Bulbet",
@@ -13,14 +13,14 @@
         "campaign-version": "PL"
       },
       {
-        "player": "0",
-        "campaign-name": "0",
-        "days": 2000,
-        "points": 1,
+        "player": "Kumajka",
+        "campaign-name": "1",
+        "days": 563,
+        "points": 1355,
         "date-report": "2023-01-01T00:00:00.000Z",
-        "source": "0",
+        "source": "https://www.twitch.tv/kumajka_/video/1882032653",
         "project-version": "2.5.9",
-        "campaign-version": "0"
+        "campaign-version": "PL"
       },
       {
         "player": "0",
@@ -116,7 +116,7 @@
   },
 
   "UPodHis": {
-    "version": 1,
+    "version": 2,
     "rank": [
       {
         "player": "Bulbet",
@@ -129,14 +129,14 @@
         "campaign-version": "PL"
       },
       {
-        "player": "0",
-        "campaign-name": "0",
-        "days": 2000,
-        "points": 1,
+        "player": "Kumajka",
+        "campaign-name": "1",
+        "days": 534,
+        "points": 1285,
         "date-report": "2023-01-01T00:00:00.000Z",
-        "source": "0",
+        "source": "https://www.twitch.tv/kumajka_/video/1882032649",
         "project-version": "2.5.9",
-        "campaign-version": "0"
+        "campaign-version": "PL"
       },
       {
         "player": "0",
@@ -696,7 +696,7 @@
   },
 
   "UBunHis": {
-    "version": 1,
+    "version": 2,
     "rank": [
       {
         "player": "Bulbet",
@@ -709,14 +709,14 @@
         "campaign-version": "PL"
       },
       {
-        "player": "0",
-        "campaign-name": "0",
-        "days": 2000,
-        "points": 1,
+        "player": "Kumajka",
+        "campaign-name": "1",
+        "days": 714,
+        "points": 1355,
         "date-report": "2023-01-01T00:00:00.000Z",
-        "source": "0",
+        "source": "https://www.twitch.tv/kumajka_/video/1882032648",
         "project-version": "2.5.9",
-        "campaign-version": "0"
+        "campaign-version": "PL"
       },
       {
         "player": "0",
@@ -1160,7 +1160,7 @@
   },
 
   "SWlaHis": {
-    "version": 1,
+    "version": 2,
     "rank": [
       {
         "player": "Stygian One",
@@ -1173,14 +1173,14 @@
         "campaign-version": "ENG"
       },
       {
-        "player": "0",
-        "campaign-name": "0",
-        "days": 2000,
-        "points": 1,
+        "player": "Kumajka",
+        "campaign-name": "1",
+        "days": 354,
+        "points": 2100,
         "date-report": "2023-01-01T00:00:00.000Z",
-        "source": "0",
+        "source": "https://www.twitch.tv/kumajka_/video/1885753265",
         "project-version": "2.5.9",
-        "campaign-version": "0"
+        "campaign-version": "PL"
       },
       {
         "player": "0",
