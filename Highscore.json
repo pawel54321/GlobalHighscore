@@ -928,8 +928,18 @@
   },
 
   "SWojHis": {
-    "version": 1,
+    "version": 2,
     "rank": [
+      {
+        "player": "Lexiav",
+        "campaign-name": "1",
+        "days": 180,
+        "points": 2130,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "https://youtu.be/CWoMH9tE398?t=12076",
+        "project-version": "2.5.9",
+        "campaign-version": "ENG"
+      },
       {
         "player": "Stygian One",
         "campaign-name": "1",
@@ -1029,23 +1039,23 @@
         "source": "0",
         "project-version": "2.5.9",
         "campaign-version": "0"
-      },
-      {
-        "player": "0",
-        "campaign-name": "0",
-        "days": 2000,
-        "points": 1,
-        "date-report": "2023-01-01T00:00:00.000Z",
-        "source": "0",
-        "project-version": "2.5.9",
-        "campaign-version": "0"
       }
     ]
   },
 
   "SPodHis": {
-    "version": 1,
+    "version": 2,
     "rank": [
+      {
+        "player": "Lexiav",
+        "campaign-name": "1",
+        "days": 229,
+        "points": 1995,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "https://youtu.be/yoKo6ptmdLY?t=4089",
+        "project-version": "2.5.9",
+        "campaign-version": "ENG"
+      },
       {
         "player": "Stygian One",
         "campaign-name": "1",
@@ -1055,16 +1065,6 @@
         "source": "0",
         "project-version": "2.5.8",
         "campaign-version": "ENG"
-      },
-      {
-        "player": "0",
-        "campaign-name": "0",
-        "days": 2000,
-        "points": 1,
-        "date-report": "2023-01-01T00:00:00.000Z",
-        "source": "0",
-        "project-version": "2.5.9",
-        "campaign-version": "0"
       },
       {
         "player": "0",
@@ -1624,8 +1624,18 @@
   },
 
   "SBunHis": {
-    "version": 1,
+    "version": 2,
     "rank": [
+      {
+        "player": "Lexiav",
+        "campaign-name": "1",
+        "days": 112,
+        "points": 2230,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "https://youtu.be/dGQOoirY7uI?t=5900",
+        "project-version": "2.5.9",
+        "campaign-version": "ENG"
+      },
       {
         "player": "Stygian One",
         "campaign-name": "1",
@@ -1635,16 +1645,6 @@
         "source": "0",
         "project-version": "2.5.8",
         "campaign-version": "ENG"
-      },
-      {
-        "player": "0",
-        "campaign-name": "0",
-        "days": 2000,
-        "points": 1,
-        "date-report": "2023-01-01T00:00:00.000Z",
-        "source": "0",
-        "project-version": "2.5.9",
-        "campaign-version": "0"
       },
       {
         "player": "0",
