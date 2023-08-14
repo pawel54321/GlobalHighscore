@@ -1276,7 +1276,7 @@
   },
 
   "SSzaHis": {
-    "version": 1,
+    "version": 2,
     "rank": [
       {
         "player": "Stygian One",
@@ -1289,14 +1289,14 @@
         "campaign-version": "ENG"
       },
       {
-        "player": "0",
-        "campaign-name": "0",
-        "days": 2000,
-        "points": 1,
+        "player": "Kumajka",
+        "campaign-name": "1",
+        "days": 448,
+        "points": 2060,
         "date-report": "2023-01-01T00:00:00.000Z",
-        "source": "0",
+        "source": "https://www.twitch.tv/videos/1893441010?t=02h02m20s",
         "project-version": "2.5.9",
-        "campaign-version": "0"
+        "campaign-version": "PL"
       },
       {
         "player": "0",
@@ -1392,7 +1392,7 @@
   },
 
   "SDrzHis": {
-    "version": 1,
+    "version": 2,
     "rank": [
       {
         "player": "Stygian One",
@@ -1405,14 +1405,14 @@
         "campaign-version": "ENG"
       },
       {
-        "player": "0",
-        "campaign-name": "0",
-        "days": 2000,
-        "points": 1,
+        "player": "Kumajka",
+        "campaign-name": "1",
+        "days": 220,
+        "points": 2110,
         "date-report": "2023-01-01T00:00:00.000Z",
-        "source": "0",
+        "source": "https://www.twitch.tv/videos/1889816508?t=02h18m38s",
         "project-version": "2.5.9",
-        "campaign-version": "0"
+        "campaign-version": "PL"
       },
       {
         "player": "0",
@@ -1508,7 +1508,7 @@
   },
 
   "SOgnHis": {
-    "version": 1,
+    "version": 2,
     "rank": [
       {
         "player": "Stygian One",
@@ -1521,14 +1521,14 @@
         "campaign-version": "ENG"
       },
       {
-        "player": "0",
-        "campaign-name": "0",
-        "days": 2000,
-        "points": 1,
+        "player": "Kumajka",
+        "campaign-name": "1",
+        "days": 257,
+        "points": 1935,
         "date-report": "2023-01-01T00:00:00.000Z",
-        "source": "0",
+        "source": "https://www.twitch.tv/videos/1890825088?t=02h50m27s",
         "project-version": "2.5.9",
-        "campaign-version": "0"
+        "campaign-version": "PL"
       },
       {
         "player": "0",
@@ -1740,7 +1740,7 @@
   },
 
   "SMieHis": {
-    "version": 1,
+    "version": 2,
     "rank": [
       {
         "player": "Stygian One",
@@ -1753,14 +1753,14 @@
         "campaign-version": "ENG"
       },
       {
-        "player": "0",
-        "campaign-name": "0",
-        "days": 2000,
-        "points": 1,
+        "player": "Kumajka",
+        "campaign-name": "1",
+        "days": 340,
+        "points": 2080,
         "date-report": "2023-01-01T00:00:00.000Z",
-        "source": "0",
+        "source": "https://www.twitch.tv/videos/1895192526?t=04h56m34s",
         "project-version": "2.5.9",
-        "campaign-version": "0"
+        "campaign-version": "PL"
       },
       {
         "player": "0",
