@@ -1160,8 +1160,18 @@
   },
 
   "SWlaHis": {
-    "version": 2,
+    "version": 3,
     "rank": [
+      {
+        "player": "Lexiav",
+        "campaign-name": "1",
+        "days": 146,
+        "points": 2130,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "https://youtu.be/Z5VNQeE2m8o?feature=shared&t=2307",
+        "project-version": "2.5.9",
+        "campaign-version": "ENG"
+      },
       {
         "player": "Stygian One",
         "campaign-name": "1",
@@ -1261,23 +1271,23 @@
         "source": "0",
         "project-version": "2.5.9",
         "campaign-version": "0"
-      },
-      {
-        "player": "0",
-        "campaign-name": "0",
-        "days": 2000,
-        "points": 1,
-        "date-report": "2023-01-01T00:00:00.000Z",
-        "source": "0",
-        "project-version": "2.5.9",
-        "campaign-version": "0"
       }
     ]
   },
 
   "SSzaHis": {
-    "version": 2,
+    "version": 3,
     "rank": [
+      {
+        "player": "Lexiav",
+        "campaign-name": "1",
+        "days": 255,
+        "points": 2085,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "https://youtu.be/caK2NdNjOfA?feature=shared&t=6093",
+        "project-version": "2.5.9",
+        "campaign-version": "ENG"
+      },
       {
         "player": "Stygian One",
         "campaign-name": "1",
@@ -1377,23 +1387,23 @@
         "source": "0",
         "project-version": "2.5.9",
         "campaign-version": "0"
-      },
-      {
-        "player": "0",
-        "campaign-name": "0",
-        "days": 2000,
-        "points": 1,
-        "date-report": "2023-01-01T00:00:00.000Z",
-        "source": "0",
-        "project-version": "2.5.9",
-        "campaign-version": "0"
       }
     ]
   },
 
   "SDrzHis": {
-    "version": 2,
+    "version": 3,
     "rank": [
+      {
+        "player": "Lexiav",
+        "campaign-name": "1",
+        "days": 126,
+        "points": 2220,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "https://youtu.be/nko8-sxnetc?feature=shared&t=5973",
+        "project-version": "2.5.9",
+        "campaign-version": "ENG"
+      },
       {
         "player": "Stygian One",
         "campaign-name": "1",
@@ -1493,23 +1503,23 @@
         "source": "0",
         "project-version": "2.5.9",
         "campaign-version": "0"
-      },
-      {
-        "player": "0",
-        "campaign-name": "0",
-        "days": 2000,
-        "points": 1,
-        "date-report": "2023-01-01T00:00:00.000Z",
-        "source": "0",
-        "project-version": "2.5.9",
-        "campaign-version": "0"
       }
     ]
   },
 
   "SOgnHis": {
-    "version": 2,
+    "version": 3,
     "rank": [
+      {
+        "player": "Lexiav",
+        "campaign-name": "1",
+        "days": 186,
+        "points": 1950,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "https://youtu.be/Nt7SPVBxVBE?feature=shared&t=5332",
+        "project-version": "2.5.9",
+        "campaign-version": "ENG"
+      },
       {
         "player": "Stygian One",
         "campaign-name": "1",
@@ -1529,16 +1539,6 @@
         "source": "https://www.twitch.tv/videos/1890825088?t=02h50m27s",
         "project-version": "2.5.9",
         "campaign-version": "PL"
-      },
-      {
-        "player": "0",
-        "campaign-name": "0",
-        "days": 2000,
-        "points": 1,
-        "date-report": "2023-01-01T00:00:00.000Z",
-        "source": "0",
-        "project-version": "2.5.9",
-        "campaign-version": "0"
       },
       {
         "player": "0",
@@ -1740,8 +1740,18 @@
   },
 
   "SMieHis": {
-    "version": 2,
+    "version": 3,
     "rank": [
+      {
+        "player": "Lexiav",
+        "campaign-name": "1",
+        "days": 129,
+        "points": 2070,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "https://youtu.be/C31d8hbl7T4?feature=shared&t=7549",
+        "project-version": "2.5.9",
+        "campaign-version": "ENG"
+      },
       {
         "player": "Stygian One",
         "campaign-name": "1",
@@ -1761,16 +1771,6 @@
         "source": "https://www.twitch.tv/videos/1895192526?t=04h56m34s",
         "project-version": "2.5.9",
         "campaign-version": "PL"
-      },
-      {
-        "player": "0",
-        "campaign-name": "0",
-        "days": 2000,
-        "points": 1,
-        "date-report": "2023-01-01T00:00:00.000Z",
-        "source": "0",
-        "project-version": "2.5.9",
-        "campaign-version": "0"
       },
       {
         "player": "0",
