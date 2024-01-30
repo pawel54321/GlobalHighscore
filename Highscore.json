@@ -928,7 +928,7 @@
   },
 
   "SWojHis": {
-    "version": 2,
+    "version": 3,
     "rank": [
       {
         "player": "Lexiav",
@@ -951,14 +951,14 @@
         "campaign-version": "ENG"
       },
       {
-        "player": "0",
-        "campaign-name": "0",
-        "days": 2000,
-        "points": 1,
+        "player": "Bozitsar",
+        "campaign-name": "1",
+        "days": 459,
+        "points": 2095,
         "date-report": "2023-01-01T00:00:00.000Z",
-        "source": "0",
+        "source": "https://www.youtube.com/watch?v=lkIC6JlZ14E",
         "project-version": "2.5.9",
-        "campaign-version": "0"
+        "campaign-version": "ENG"
       },
       {
         "player": "0",
