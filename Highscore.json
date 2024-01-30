@@ -1509,8 +1509,18 @@
   },
 
   "SOgnHis": {
-    "version": 4,
+    "version": 5,
     "rank": [
+      {
+        "player": "Bozitsar",
+        "campaign-name": "1",
+        "days": 294,
+        "points": 1975,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "https://www.youtube.com/watch?v=7cjdMmAF-CM",
+        "project-version": "2.5.9",
+        "campaign-version": "ENG"
+      },
       {
         "player": "Lexiav",
         "campaign-name": "1",
@@ -1540,16 +1550,6 @@
         "source": "https://www.twitch.tv/videos/1890825088?t=02h50m27s",
         "project-version": "2.5.9",
         "campaign-version": "PL"
-      },
-      {
-        "player": "Bozitsar",
-        "campaign-name": "1",
-        "days": 294,
-        "points": 1975,
-        "date-report": "2023-01-01T00:00:00.000Z",
-        "source": "https://www.youtube.com/watch?v=7cjdMmAF-CM",
-        "project-version": "2.5.9",
-        "campaign-version": "ENG"
       },
       {
         "player": "0",
@@ -1741,8 +1741,18 @@
   },
 
   "SMieHis": {
-    "version": 4,
+    "version": 5,
     "rank": [
+      {
+        "player": "Kumajka",
+        "campaign-name": "1",
+        "days": 340,
+        "points": 2080,
+        "date-report": "2023-01-01T00:00:00.000Z",
+        "source": "https://www.twitch.tv/videos/1895192526?t=04h56m34s",
+        "project-version": "2.5.9",
+        "campaign-version": "PL"
+      },
       {
         "player": "Lexiav",
         "campaign-name": "1",
@@ -1772,16 +1782,6 @@
         "source": "https://www.youtube.com/watch?v=SX7cxrLmxhs",
         "project-version": "2.5.8",
         "campaign-version": "ENG"
-      },
-      {
-        "player": "Kumajka",
-        "campaign-name": "1",
-        "days": 340,
-        "points": 2080,
-        "date-report": "2023-01-01T00:00:00.000Z",
-        "source": "https://www.twitch.tv/videos/1895192526?t=04h56m34s",
-        "project-version": "2.5.9",
-        "campaign-version": "PL"
       },
       {
         "player": "0",
